@@ -1,0 +1,167 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Soyeb Ansari",
+      "company": "Globant"
+    },
+    {
+      "id": 2,
+      "name": "Yasmeen Sheikh",
+      "company": "Zensar"
+    },
+    {
+      "id": 3,
+      "name": "Sameer Attar",
+      "company": "Zensar"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 11,
+      "name": "raju",
+      "company": "chahca"
+    },
+    {
+      "id": 12,
+      "name": "raju",
+      "company": "chahca"
+    },
+    {
+      "id": 93421.52902200937,
+      "name": "kiki",
+      "company": "sss"
+    },
+    {
+      "id": 13171.155033935422,
+      "name": "kiki",
+      "company": "sss"
+    },
+    {
+      "id": 76293.75644127587,
+      "name": "Javed ",
+      "company": "PHP"
+    },
+    {
+      "id": 74041.52893732156,
+      "name": "Ramesh",
+      "company": "PLP"
+    },
+    {
+      "id": 31607.54049076666,
+      "name": "dsds",
+      "company": "dsdsdsd"
+    }
+  ],
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Pepsi"
+    },
+    {
+      "id": 778,
+      "name": "coke"
+    },
+    {
+      "id": 460,
+      "name": "ggdgd"
+    },
+    {
+      "id": 617,
+      "name": "ttt"
+    },
+    {
+      "id": 196,
+      "name": "wdsdsd"
+    },
+    {
+      "id": 596,
+      "name": "dsdsds"
+    },
+    {
+      "id": 896,
+      "name": "hiiiii"
+    },
+    {
+      "id": 188,
+      "name": "hiiiii"
+    },
+    {
+      "id": 173,
+      "name": "hiiiii"
+    },
+    {
+      "id": 322,
+      "name": "hiiiii"
+    },
+    {
+      "id": 620,
+      "name": "hiiiii"
+    },
+    {
+      "id": 682,
+      "name": "hiiiii"
+    },
+    {
+      "id": 255,
+      "name": "hiiiii"
+    },
+    {
+      "id": 404,
+      "name": "hiiiii"
+    },
+    {
+      "id": 825,
+      "name": "hiiiii"
+    },
+    {
+      "id": 155,
+      "name": "hiiiii"
+    },
+    {
+      "id": 619,
+      "name": "hiiiii"
+    },
+    {
+      "id": 152,
+      "name": "hiiiii"
+    },
+    {
+      "id": 841,
+      "name": "hiiiii"
+    },
+    {
+      "id": 738,
+      "name": "hiiiii"
+    },
+    {
+      "id": 610,
+      "name": "hiiiii"
+    },
+    {
+      "id": 935,
+      "name": "hiiiii"
+    },
+    {
+      "id": 298,
+      "name": "hiiiii"
+    },
+    {
+      "id": 261,
+      "name": "juoo"
+    },
+    {
+      "id": 651,
+      "name": "hhhh"
+    },
+    {
+      "id": 489,
+      "name": "fddfdfd "
+    },
+    {
+      "id": 658,
+      "name": "fddfdfd dgdggd"
+    }
+  ]
+}
