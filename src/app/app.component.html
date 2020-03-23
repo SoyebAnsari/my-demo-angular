@@ -1,0 +1,27 @@
+<h3 *ngIf="(loader$ | async)">
+  Loading....
+</h3>
+
+<h5 *ngIf="error$ | async" > 
+  {{ (error$ | async ).message }}
+</h5>
+
+<table>
+  <tr *ngFor = "let item of (shoppingItems$ | async)">
+    <td> {{ item.id }} </td>
+    <td> {{ item.name }} </td>
+  </tr>
+</table>
+
+<input #name type="text" (keyup.enter)="addItem(name)">
+<button (click)="addItem(name)" >Add Item</button>
+
+
+<!-- <input #name type="text" >
+<input #company type ="text" />
+
+<button (click)="addCustomer(name.value ,company.value)" > Add </button>  -->
+
+
+
+<!-- <app-customer></app-customer> -->
